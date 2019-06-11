@@ -1,0 +1,28 @@
+{
+  "employees": [
+    {
+      "id": "12:43:A5:23",
+      "name": "Maria das Graças",
+      "company": "Google",
+      "Location": "Mountain View",
+      "department": "Software Engineering",
+      "role": "Developer Advocate"
+    },
+    {
+      "id": "12:43:A5:24",
+      "name": "Henrique de Souza",
+      "company": "Facebook",
+      "Location": "Mountain View",
+      "department": "Web Engineering",
+      "role": "Front End Developer"
+    },
+    {
+      "id": "12:43:A5:25",
+      "name": "Flavio Alberto Francisco Pereira",
+      "company": "Apple",
+      "Location": "Menlo Park",
+      "department": "Systems Design",
+      "role": "Systems Analyst"
+    }
+  ]
+}
