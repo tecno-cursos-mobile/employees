@@ -23,6 +23,38 @@
       "location": "Menlo Park",
       "department": "Systems Design",
       "role": "Systems Analyst"
+    },
+    {
+      "id": "12:43:A5:26",
+      "name": "Marina Ferreira Barbosa",
+      "company": "Luiza Labs",
+      "location": "Franca",
+      "department": "Marketing",
+      "role": "Analista de Marketing 2"
+    },
+    {
+      "id": "12:43:A5:27",
+      "name": "Gentio Pio da Silva",
+      "company": "Ambar",
+      "location": "São José do Rio Preto",
+      "department": "Expedição",
+      "role": "Técnico em Logística"
+    },
+    {
+      "id": "12:43:A5:28",
+      "name": "Alfredo Neves Costa",
+      "company": "Ambev",
+      "location": "Anápolis",
+      "department": "Fabricação",
+      "role": "Mestre Cervejeriro"
+    },
+    {
+      "id": "12:43:A5:29",
+      "name": "Flavio Alberto Francisco Pereira",
+      "company": "Ambev",
+      "location": "Anápolis",
+      "department": "Fabricação",
+      "role": "Sommelier"
     }
   ]
 }
