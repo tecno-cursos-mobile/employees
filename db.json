@@ -1,7 +1,7 @@
 {
   "employees": [
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=1",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/girl01.jpg",
       "id": "12:43:A5:23",
       "name": "Maria das Graças",
       "company": "Google",
@@ -10,7 +10,7 @@
       "role": "Developer Advocate"
     },
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=7",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy01.jpg",
       "id": "12:43:A5:24",
       "name": "Henrique de Souza",
       "company": "Facebook",
@@ -19,7 +19,7 @@
       "role": "Front End Developer"
     },
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=8",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy02.jpg",
       "id": "12:43:A5:25",
       "name": "Flavio Alberto Francisco Pereira",
       "company": "Apple",
@@ -28,7 +28,7 @@
       "role": "Systems Analyst"
     },
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=10",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/girl02.jpg",
       "id": "12:43:A5:26",
       "name": "Marina Ferreira Barbosa",
       "company": "Luiza Labs",
@@ -37,7 +37,7 @@
       "role": "Analista de Marketing 2"
     },
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=17",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy03.jpg",
       "id": "12:43:A5:27",
       "name": "Gentio Pio da Silva",
       "company": "Ambar",
@@ -46,7 +46,7 @@
       "role": "Técnico em Logística"
     },
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=18",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy04.jpg",
       "id": "12:43:A5:28",
       "name": "Alfredo Neves Costa",
       "company": "Ambev",
@@ -55,9 +55,9 @@
       "role": "Mestre Cervejeriro"
     },
     {
-      "avatarUrl": "https://i.pravatar.cc/150?img=50",
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy05.jpg",
       "id": "12:43:A5:29",
-      "name": "Flavio Alberto Francisco Pereira",
+      "name": "Placido Zoerga Albuquerque",
       "company": "Ambev",
       "location": "Anápolis",
       "department": "Fabricação",
