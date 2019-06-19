@@ -53,15 +53,6 @@
       "location": "Anápolis",
       "department": "Fabricação",
       "role": "Mestre Cervejeriro"
-    },
-    {
-      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy05.jpg",
-      "id": "24567897",
-      "name": "Placido Zoerga Albuquerque",
-      "company": "Ambev",
-      "location": "Anápolis",
-      "department": "Fabricação",
-      "role": "Sommelier"
     }
   ]
 }
