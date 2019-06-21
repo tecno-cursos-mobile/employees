@@ -18,7 +18,7 @@
       "location": "Mountain View",
       "department": "Web Engineering",
       "role": "Front End Developer",
-      "attendance": "0"
+      "attendance": 0
     },
     {
       "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy02.jpg",
