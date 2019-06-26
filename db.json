@@ -59,6 +59,36 @@
       "department": "Fabricação",
       "role": "Mestre Cervejeriro",
       "attendance": 2
+    },
+    {
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/boy04.jpg",
+      "id": "24567897",
+      "name": "Livia Araujo Rodrigues",
+      "company": "Coca-Cola Brasil",
+      "location": "Rio de Janeiro",
+      "department": "Finceiro",
+      "role": "Consultora de Finanças Sênior",
+      "attendance": 2
+    },
+    {
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/girl03.jpg",
+      "id": "24567897",
+      "name": "Livia Araujo Rodrigues",
+      "company": "Coca-Cola Brasil",
+      "location": "Rio de Janeiro",
+      "department": "Financeiro",
+      "role": "Consultora de Finanças Sênior",
+      "attendance": 2
+    },
+    {
+      "avatarUrl": "https://raw.githubusercontent.com/tecno-cursos-mobile/employees-photos/master/girl03.jpg",
+      "id": "24567897",
+      "name": "Li Ming Hsieh",
+      "company": "Kodak Brasil",
+      "location": "São José dos Campos",
+      "department": "Engenharia",
+      "role": "Engenheira de Controle de Processos - Pleno",
+      "attendance": 1
     }
   ]
 }
